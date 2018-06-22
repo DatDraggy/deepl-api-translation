@@ -1,0 +1,1 @@
+"sometext";352432;"Text to translate"
